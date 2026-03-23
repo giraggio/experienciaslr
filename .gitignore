@@ -1,0 +1,13 @@
+# Excels intermedios (solo conservar el final)
+proyectos_sga*.xlsx
+proyectos_geobiota*.xlsx
+Experiencia_*.xlsx
+Experiencia.xlsx
+
+# Archivos locales Windows
+configurar_tarea_semanal.bat
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
